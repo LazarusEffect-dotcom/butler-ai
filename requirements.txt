@@ -1,0 +1,10 @@
+pyautogui
+ollama
+psutil
+pyttsx3
+pycaw
+rich
+requests
+SpeechRecognition
+pyaudio
+beautifulsoup4
